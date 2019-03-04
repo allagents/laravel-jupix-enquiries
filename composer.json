@@ -8,5 +8,12 @@
       "name": "Josh Murray",
       "email": "josh@allagents.co.uk"
     }
-  ]
+  ],
+  "extra": {
+    "laravel": {
+        "providers": [
+            "AllAgents\\JupixEnquiries\\JupixServiceProvider"
+        ]
+    }
+  }
 }
