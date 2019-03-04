@@ -1,15 +1,15 @@
 {
-    "name": "allagents/laravel-jupix-enquiries",
-    "type": "laravel",
-    "require": {
-        "laravel/laravel": "^5.8",
-        "guzzlehttp/guzzle": "^6.3"
-    },
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Josh Murray",
-            "email": "josh@allagents.co.uk"
-        }
-    ]
+  "name": "allagents/laravel-jupix-enquiries",
+  "type": "laravel",
+  "require": {
+    "laravel/laravel": "5.7.*",
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Josh Murray",
+      "email": "josh@allagents.co.uk"
+    }
+  ]
 }
