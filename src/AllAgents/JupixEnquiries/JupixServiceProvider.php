@@ -14,7 +14,7 @@ class JupixServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Log::debug('Booted JupixServiceProvider');
+       // Log::debug('Booted JupixServiceProvider');
     }
 
     /**
