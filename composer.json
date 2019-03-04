@@ -9,10 +9,15 @@
       "email": "josh@allagents.co.uk"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "AllAgents\\JupixEnquiries\\": "src/"
+    }
+  },
   "extra": {
     "laravel": {
         "providers": [
-            "\\AllAgents\\JupixEnquiries\\JupixServiceProvider"
+            "AllAgents\\JupixEnquiries\\JupixServiceProvider"
         ]
     }
   }
