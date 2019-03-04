@@ -1,10 +1,7 @@
 {
   "name": "allagents/laravel-jupix-enquiries",
   "type": "laravel",
-  "require": {
-    "laravel/laravel": "5.7.*",
-    "guzzlehttp/guzzle": "^6.3"
-  },
+  "require": {},
   "license": "MIT",
   "authors": [
     {
